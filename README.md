@@ -1,1 +1,1 @@
-# TRANSPORT-RENTAL-SERVICES
+A C++ application emphasizing object-oriented design through classes, objects, encapsulation, and abstraction. Utilizes STL components, file handling, constructors, and member functions for persistent data management. Incorporates conditional logic, iterative control structures, and modular architecture to model real-world entities, ensuring scalable, readable, and maintainable code using core C++ programming principles.
